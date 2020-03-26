@@ -1,5 +1,5 @@
 {
-  "name": "js-function-templatey",
+  "name": "__NAME__",
   "version": "1.0.0",
   "description": "Template repo for js functions",
   "main": "index.js",
@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saxjst/js-function-template.git"
+    "url": "git+https://github.com/saxjst/__NAME__.git"
   },
   "author": {
     "name": "saxjst"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/saxjst/js-function-template/issues"
+    "url": "https://github.com/saxjst/__NAME__/issues"
   },
-  "homepage": "https://github.com/saxjst/js-function-template#readme",
+  "homepage": "https://github.com/saxjst/__NAME__#readme",
   "engines": {
     "node": ">=10.16.3"
   },

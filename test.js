@@ -1,7 +1,7 @@
-const dummyFunction = require(".");
+const __NAME__ = require(".");
 
-describe("dummyFunction tests", () => {
-  test("if dummyFunction is called then it must be defined", () => {
+describe("__NAME__ tests", () => {
+  test("if __NAME__ is called then it must be defined", () => {
     expect(typeof dummyFunction).toBe("function");
   });
 });
